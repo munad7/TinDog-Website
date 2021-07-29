@@ -32,54 +32,6 @@ p, em, .nav-link, .fa-apple-text, .fa-google-text, .features-p, .pricing-intro-t
   line-height: 1.5;
 }
 
-/* --------------max-width: 480px--------------- */
-
-@media (max-width: 480px){
-
-  .header {
-    font-size: 38px;
-    line-height: initial;
-  }
-
-  em {
-    font-size: 12px;
-  }
-  
-  .download-btn-one {
-    width: 200px;
-    margin-bottom: 15px;
-  }
-
-  .download-btn-two {
-    width: 200px;
-  }
-
-  .testimonial-text {
-    font-size: 16px;
-    text-align: left;
-    line-height: initial;
-  }
-
-  .testimonial-image {
-    width: 50px;
-    height: auto;
-  }
-
-  .cta-header {
-    font-size: 30px;
-  }
-
-  .last-button-one , .last-button-two {
-    width: 200px;
-    margin: 0;
-    margin-bottom: 15px;
-  }
-
-  .card-first {
-    margin-top: 50px;
-  }
-}
-
 
 
 /* --------HTML ELEMENTS STYLES SECTION---------- */
@@ -594,6 +546,54 @@ i {
 
   .cta-header { 
     margin-top: 35px;
+  }
+}
+
+/* --------------max-width: 480px--------------- */
+
+@media (max-width: 480px){
+
+  .header {
+    font-size: 38px;
+    line-height: initial;
+  }
+
+  em {
+    font-size: 12px;
+  }
+  
+  .download-btn-one {
+    width: 200px;
+    margin-bottom: 15px;
+  }
+
+  .download-btn-two {
+    width: 200px;
+  }
+
+  .testimonial-text {
+    font-size: 16px;
+    text-align: left;
+    line-height: initial;
+  }
+
+  .testimonial-image {
+    width: 50px;
+    height: auto;
+  }
+
+  .cta-header {
+    font-size: 30px;
+  }
+
+  .last-button-one , .last-button-two {
+    width: 200px;
+    margin: 0;
+    margin-bottom: 15px;
+  }
+
+  .card-first {
+    margin-top: 50px;
   }
 }
  
