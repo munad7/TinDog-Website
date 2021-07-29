@@ -570,7 +570,13 @@ i {
   .download-btn-two {
     width: 200px;
   }
-
+  
+  .title-image {
+    width: 200px;
+    height: auto;
+    margin: auto auto;
+  }
+  
   .testimonial-text {
     font-size: 16px;
     text-align: left;
@@ -592,6 +598,12 @@ i {
     margin-bottom: 15px;
   }
 
+  .footer-text {
+    font-size: 16px;
+    padding-bottom: 100px;
+    margin: 0;
+  }
+  
   .card-first {
     margin-top: 50px;
   }
